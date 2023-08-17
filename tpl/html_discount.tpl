@@ -9,7 +9,7 @@
 
   <div>
    <br />
-   <h2><a target="_blank">JoeSec</a> | <a href="https://github.com/lyy289065406/steam-discount">Steam 特惠榜单</a> - TOP %(limit)i</h2>
+   <h2><a target="_blank">JoeSec</a> | <a href="https://sec-joe.github.io/steam-discount/discount.html">Steam 特惠榜单</a> - TOP %(limit)i</h2>
    %(datetime)s
    <br />
    <br />
