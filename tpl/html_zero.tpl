@@ -9,7 +9,7 @@
 
   <div>
    <br />
-   <h2><a href="https://exp-blog.com" target="_blank">JoeSec</a> | <a href="https://github.com/lyy289065406/steam-discount">Steam 零元购</a> - TOP %(limit)i</h2>
+   <h2><a target="_blank">JoeSec</a> | <a href="https://sec-joe.github.io/steam-discount/zero.html">Steam 零元购</a> - TOP %(limit)i</h2>
    %(datetime)s
    <br />
    <br />
