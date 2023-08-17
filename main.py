@@ -14,7 +14,7 @@ from src.core import pager
 from color_log.clog import log
 
 
-GIT_CRAWL_PWD = "3uJtWFf4Vx1S2dSQXJCK"
+GIT_CRAWL_PWD = "QhJmeKkuoCfQrrhbhZHLC9aZ"
 
 def args() :
     parser = argparse.ArgumentParser(
